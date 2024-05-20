@@ -23,7 +23,7 @@ Things I would like to learn:
 - Bash scripting
 - Standard Cybersecurity protocols, jargon, and strategies (MITRE Att&ck Framework comes to mind)
 - Networking fundamentals (Fall 2024 semester here we come!)
-- Basic WebDev (Hopefully a personal website soon)
+- Basic WebDev (Hopefully a personal website soon) : CSS, HTML
 
 Thats all for now! Regular updates should come in as I learn and apply more.
 -Kellen
